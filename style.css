@@ -108,14 +108,14 @@ a {
 #landing img {
     position: fixed;
     overflow: hidden;
-    top: -300px;
+    top: -150px;
     z-index: -1;
     width: 100%;
 }
 
 #tagline {
     padding-top: 25vh;
-    padding-left: 10vw;
+    padding-left: 5vw;
     
 }
 
